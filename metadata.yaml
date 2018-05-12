@@ -1,0 +1,33 @@
+_repo: Code-galant-ou-Art-de-Conter-fleurette_41731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41731-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Raisson, Horace
+    aliases:
+    - Raisson, H. (Horace)
+    - Raison, Horace
+    - Raisson, Horace-Napoleon
+    - Raisson, Horace-Napoléon
+    birthdate: 1798
+    deathdate: 1854
+    gutenberg_agent_id: '41329'
+    url: http://www.gutenberg.org/2009/agents/41329
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2012-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41731'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love'
+- !lcc 'HQ'
+- !lcsh 'Courtship'
+title: Code galant, ou, Art de Conter fleurette
+url: http://www.gutenberg.org/ebooks/41731
